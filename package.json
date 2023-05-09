@@ -4,7 +4,7 @@
   "description": "web profile to fulfill dicoding submission",
   "main": "app.js",
   "scripts": {
-    "start": "SET NODE_ENV=production && node app.js",
+    "start": "node app.js",
     "start-dev": "SET NODE_ENV=development && nodemon app.js"
   },
   "author": "zaidan",
